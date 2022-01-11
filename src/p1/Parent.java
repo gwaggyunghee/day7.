@@ -1,7 +1,7 @@
 package p1;
 
 public class Parent {
-	//상속관계일 때는 자식이 부모의 protected 멤버를 접근 할 수 있다.
+	//상속관계일 때는 자식이 부모의 protected 멤버를 접근 할 수 있다
 	protected int num1;
 	
 	protected void test1() {
