@@ -4,6 +4,6 @@ public class ClsA {
 	
 	public ClsA() {
 		//super();
-		System.out.println("ClsA()생성자 호출됨");
+		System.out.println("ClsA()생성자 호출됨.");
 	}
 }
